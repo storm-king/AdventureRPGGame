@@ -9,3 +9,7 @@ The character selection screen:
 ![Screenshot](CharacterSelect.png)
 Screenshot of gameplay: 
 ![Screenshot](Gameplay.png)
+
+IMPORTANT! To run this game, download this file and any Java compiler such as NetBeans, Eclipse, etc. Below is a link to download the NetBeans IDE:
+
+https://netbeans.org/downloads/8.0.2/
