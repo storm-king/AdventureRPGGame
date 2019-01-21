@@ -5,6 +5,9 @@
  */
 package adventurerpg;
 
+import java.awt.AlphaComposite;
+import java.awt.Graphics2D;
+import java.awt.Graphics;
 import java.awt.Image;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
@@ -33,7 +36,6 @@ public class BufferedImageLoader
         image1 = new ImageIcon(getClass().getResource(path)).ge‌​tImage();
         return image1;
     }
-    
     
     
 }
